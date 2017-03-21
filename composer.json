@@ -1,0 +1,7 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "slim/slim": "^3.0",
+        "mem-memov/cybelang": "dev-master"
+    }
+}
